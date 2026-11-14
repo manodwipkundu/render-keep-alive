@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Ping the Render Backend
         run: |
-          curl -s https://manodwip-backend.onrender.com || echo "Failed to ping"
+          curl -s https://turnaround-screener.onrender.com || echo "Failed to ping"
